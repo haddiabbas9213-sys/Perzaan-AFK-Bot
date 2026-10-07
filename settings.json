@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "PANDASMPP.aternos.me",
+    "port": 43213,
     "version": "1.21.1"
   },
   "position": {
